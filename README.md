@@ -2,6 +2,8 @@
 
 A simple Rock Paper Scissors game with a colorful interface and persistent scoring built using vanilla HTML, CSS, and JavaScript.
 
+## 🎮 [Play Live Demo](https://rockyv1.netlify.app)
+
 ## Features
 
 - Play Rock Paper Scissors against the computer
